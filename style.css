@@ -192,3 +192,7 @@ textarea {
     display: table;
     clear: both;
 }
+
+footer p {
+ padding-top: 5px;
+}
