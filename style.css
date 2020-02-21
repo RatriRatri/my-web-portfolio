@@ -155,3 +155,40 @@ footer p {
     font-size: 0.7em;
     color: white;
 }
+
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+
+
+.contact-us-section {
+    padding: 100px 0;
+    background-color: #f2f2f2;
+
+}
+
+.section-heading {
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
