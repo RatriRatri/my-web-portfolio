@@ -72,6 +72,7 @@ p {
 footer p {
     text-align: center;
     font-size: 12px;
+    padding-top: 5px;
 }
 
 .experience {
@@ -193,6 +194,3 @@ textarea {
     clear: both;
 }
 
-footer p {
- padding-top: 5px;
-}
